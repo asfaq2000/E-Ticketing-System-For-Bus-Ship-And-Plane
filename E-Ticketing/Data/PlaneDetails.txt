@@ -1,0 +1,60 @@
+From : Bangladesh
+To : Brazil
+Booking Date: 2024-12-03
+Arrival : 2024-12-05
+Seat No : 4
+Type : Economy
+Airlines : US-Bangla
+Time : 10:00 PM
+Total Cost : 14400
+=========================================
+From : Bangladesh
+To : Brazil
+Booking Date: 2024-12-05
+Arrival : 2024-12-06
+Seat No : 2
+Type : Economy
+Airlines : US-Bangla
+Time : 12:00 PM
+Total Cost : 7200
+=========================================
+From : Bangladesh
+To : America
+Booking Date: 2024-12-09
+Arrival : 2024-12-10
+Seat No : 2
+Type : Business
+Airlines : US-Bangla
+Time : 10:00 AM
+Total Cost : 8000
+=========================================
+From : Bangladesh
+To : Argentina
+Booking Date: 2024-12-10
+Arrival : 2024-12-20
+Seat No : 1
+Type : Business
+Airlines : US-Bangla
+Time : 12:00 PM
+Total Cost : 4500
+=========================================
+From : Bangladesh
+To : America
+Booking Date: 2024-12-10
+Arrival : 2024-12-11
+Seat No : 1
+Type : Business
+Airlines : US-Bangla
+Time : 10:00 AM
+Total Cost : 40000
+=========================================
+From : Bangladesh
+To : Brazil
+Booking Date: 2024-12-10
+Arrival : 2024-12-11
+Seat No : 1
+Type : Business
+Airlines : US-Bangla
+Time : 12:00 PM
+Total Cost : 48000
+=========================================

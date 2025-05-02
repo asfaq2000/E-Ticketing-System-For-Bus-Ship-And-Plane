@@ -1,0 +1,50 @@
+From : Dhaka
+To : Naogaon
+Booking Date: 2024-12-10
+Arrival : 2024-12-10
+Seat No : 1
+Type : Non AC
+Coach: 1
+Time : 9:30 AM
+Total Cost : 680
+=========================================
+From : Naogaon
+To : Dhaka
+Booking Date: 2024-12-10
+Arrival : 2024-12-11
+Seat No : 1
+Type : Non AC
+Coach: 1
+Time : 9:30 AM
+Total Cost : 680
+=========================================
+From : Dhaka
+To : Naogaon
+Booking Date: 2024-12-10
+Arrival : 2024-12-11
+Seat No : 3
+Type : Non AC
+Coach: 2
+Time : 10:00 AM
+Total Cost : 2040
+=========================================
+From : Dhaka
+To : Naogaon
+Booking Date: 2024-12-16
+Arrival : 2024-12-17
+Seat No : 1
+Type : Non AC
+Coach: 2
+Time : 9:30 AM
+Total Cost : 680
+=========================================
+From : Dhaka
+To : Naogaon
+Booking Date: 2024-12-16
+Arrival : 2024-12-17
+Seat No : 1
+Type : Non AC
+Coach: 2
+Time : 10:45 AM
+Total Cost : 680
+=========================================

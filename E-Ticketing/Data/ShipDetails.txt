@@ -1,0 +1,36 @@
+From : Dhaka
+To : Vola
+Booking Date: 2024-12-03
+Arrival : 2024-12-04
+Seat No : 3
+Type : DECK
+Time : 12:00 PM
+Total Cost : 600
+=========================================
+From : Dhaka
+To : Chandpur
+Booking Date: 2024-12-05
+Arrival : 2024-12-06
+Seat No : 1
+Type : AC Seat
+Time : 10:00 AM
+Total Cost : 800
+=========================================
+From : Dhaka
+To : Barishal
+Booking Date: 2024-12-09
+Arrival : 2024-12-10
+Seat No : 2
+Type : AC Cabin
+Time : 12:00 PM
+Total Cost : 2400
+=========================================
+From : Dhaka
+To : Chandpur
+Booking Date: 2024-12-09
+Arrival : 2024-12-09
+Seat No : 1
+Type : AC Cabin
+Time : 10:00 AM
+Total Cost : 1000
+=========================================
